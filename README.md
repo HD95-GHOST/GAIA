@@ -2,10 +2,10 @@
 Transport Solutions
 Team Members
 ****
-Harsh Dev Gupta
-Sanchit Ralhan 
-Sanjith Hebbar
-Vipul Siddharth
+Harsh Dev Gupta  
+Sanchit Ralhan   
+Sanjith Hebbar  
+Vipul Siddharth  
 ****
 Primary Creation : 10/11/2016
 Items
